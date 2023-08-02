@@ -1,0 +1,14 @@
+{
+  
+  "name": "phase-1-js-fetch-on-demand-with-forms",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch ./db.json"
+  },
+  "author": "",
+  "license": "ISC"
+
+}
